@@ -14,10 +14,10 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "startapp",
-  "Banner": "startapp",
-  "Native": "xxx",
-  "Rewarded": "startapp",
+  "Interstitial": "erer",
+  "Banner": "erer",
+  "Native": "erere",
+  "Rewarded": "ererer ",
   
   
   "main_inter": true,
@@ -28,8 +28,8 @@
   
   "rate": false,
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate": 1,
   
   "rating_exit_popup": true,
   
